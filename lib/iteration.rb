@@ -44,6 +44,7 @@ def total_even_pairs(src)
       total += sum
     end
   end
+  total
 end
 
 
